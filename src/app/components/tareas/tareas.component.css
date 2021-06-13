@@ -1,0 +1,19 @@
+ input {
+     text-align: center;
+ }
+ 
+ .form-control-lg {
+     font-size: 1.5rem;
+ }
+ 
+ .cursor {
+     cursor: pointer;
+ }
+ /* .fa-circle-notch { */
+ /* background-color: chartreuse; */
+ /* text-decoration-color: green; */
+ /* } */
+ /* .fa-trash-alt { */
+ /* background-color: red; */
+ /* text-decoration-color: red;
+ } */
